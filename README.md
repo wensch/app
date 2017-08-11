@@ -1,2 +1,2 @@
 # app
-Ruby app simples project and easy
+Ruby app simples project created to test devOps patters
