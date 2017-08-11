@@ -1,2 +1,2 @@
 # app
-Ruby app simples project
+Ruby app simples project and easy
